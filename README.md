@@ -5,5 +5,4 @@ V5CustomMenu3 is the most up to date program. It still doesn't work properly as 
 
 CustomMenu_Comp is the code in competition format. I haven't figured out how the format will work with my code. Work in progres...
 
-**EMW comments:
-You want to make sure all the .cpp and .h files are part of this. You can actually add a directory to the repository as opposed to a single file. 
+Next Steps: Firgure out what is causing a system error in both programs and fix it so that I can continue to test and make progress.
