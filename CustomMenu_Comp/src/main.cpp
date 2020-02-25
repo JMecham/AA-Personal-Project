@@ -35,6 +35,8 @@ const int n = Ptotal/States; //This is the degrees of the potentiometer divided 
 // state is activated in a 10 degree range. First state is from 0 to n, the second from n to 2 * n and so on just like before. All you would
 // need to do is add more state integers below and add them to the switch case further down.
 
+//This is some great stuff Jaden
+
 //Red States
 const int RED1 = 0;
 const int RED2 = 1;
